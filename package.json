@@ -1,7 +1,7 @@
 {
   "name": "fski-videoplay",
-  "version": "1.0.0",
-  "description": "fonction d'autoplay pour les vidéos",
+  "version": "1.0.1",
+  "description": "Autoplay pour les vidéos",
   "main": "dist/VideoAutoPlay.js",
   "types": "dist/VideoAutoPlay.d.js",
   "files": [
